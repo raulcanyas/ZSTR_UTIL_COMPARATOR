@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_UTIL_COMPARATOR</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>Util - Comparación de datos de Estructuras o Tablas Internas</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_COMPARATOR</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_COMPARATOR</CLSNAME>
+     <CMPNAME>DIFF_HASH_TABLES</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Determines different values in tables without index</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_COMPARATOR</CLSNAME>
+     <CMPNAME>DIFF_INDEX_TABLES</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Determines different values in index tables</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_COMPARATOR</CLSNAME>
+     <CMPNAME>DIFF_STRUCTS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Determines different values in structures with same type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_COMPARATOR</CLSNAME>
+     <CMPNAME>DIFF_TABLES</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Determines different values in tables</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_COMPARATOR</CLSNAME>
+     <CMPNAME>MO_RESULT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>INTERNAL:  Alert: Check Error</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_COMPARATOR</CLSNAME>
+     <CMPNAME>READ_DIFF_STRUCTS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Capturar diferencias de estructuras</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_COMPARATOR</CLSNAME>
+     <CMPNAME>STRUCTURES</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Comparador de datos de 2 Estructuras</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
